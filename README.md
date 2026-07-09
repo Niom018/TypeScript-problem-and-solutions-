@@ -150,8 +150,8 @@ ts-assignment/
 ```
 
 ## Submission Checklist
-- [ 1] All 15 programs written and tested in VS Code
-- [ 1] Each output copied sequentially into the Google Sheet (link at top of this README)
-- [ 1] README updated with the Google Docs/Sheet link
-- [ 1] Repo pushed to GitHub with `node_modules/` excluded via `.gitignore`
-- [ 1] GitHub repo URL submitted before Jul 26, 2026, 11:59 PM
+- [ done] All 15 programs written and tested in VS Code
+- [ done] Each output copied sequentially into the Google Sheet (link at top of this README)
+- [ done] README updated with the Google Docs/Sheet link
+- [ done] Repo pushed to GitHub with `node_modules/` excluded via `.gitignore`
+- [ done] GitHub repo URL submitted before Jul 26, 2026, 11:59 PM
